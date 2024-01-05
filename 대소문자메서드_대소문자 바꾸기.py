@@ -30,3 +30,10 @@ print(result)
 # str = input()
 # result = ''.join([i.lower() if i.isupper() else i.upper() for i in str])
 # print(result)
+
+
+# 다른 사람의 풀이1
+# print(input().swapcase())
+
+# 다른 사람의 풀이2
+# print(''.join(x.upper() if x == x.lower() else x.lower() for x in input()))
