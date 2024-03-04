@@ -1,0 +1,2 @@
+#내 풀이
+solution = lambda num1, num2: num1-num2
